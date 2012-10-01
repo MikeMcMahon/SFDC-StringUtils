@@ -1,4 +1,4 @@
-public with sharing class StringUtils {
+public class StringUtils {
 	
 	public static String getSObjectField(String str) { 
 		if (str == null) { 
